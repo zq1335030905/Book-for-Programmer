@@ -1,4 +1,4 @@
-# programmer-learning-book ![](https://img.shields.io/badge/license-MIT-blue)
+# programmer-learning ![](https://img.shields.io/badge/license-MIT-blue)
 
 This is a project of programmer basic learning book list and pdf.
 
