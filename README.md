@@ -6,6 +6,8 @@ The list include：
 ##### 1.《c++ primer forth editor中文版》
 ##### 2.《深度探索c++对象模型》
 ##### 3.《STL源码剖析》
+##### 4.《effective c++ 侯捷译中文版》
+##### 5.《more effective c++中文版》
 
 
 
@@ -29,7 +31,7 @@ The list include：
 ##### 2.《程序员代码面试指南IT名企算法与数据结构最优解，左程云著》
 
 ## download link
-链接: https://pan.baidu.com/s/1HizYURiGRLPUFC0r17HilA 提取码: gkya
+链接: https://pan.baidu.com/s/1D6htrwBwSNgHId7Vdytrhg 提取码: b9gj
 
 
 
