@@ -1,6 +1,6 @@
 # programmer-learning ![](https://img.shields.io/badge/license-MIT-blue)
 
-This is a project of programmer basic learning book list and pdf.
+This is a project of programmer basic learning book list and pdf. Because of the size limitation, I put some download link below the title of book.
 
 The list include：
 ## c++ 
@@ -19,12 +19,14 @@ The list include：
 
 ## operating system 操作系统
 ##### 1.《深入理解计算机系统》
+链接: https://pan.baidu.com/s/1d_sr9mMsRCGfZf0aIGZ8Ig 提取码: jm83
 
 ## design model 设计模式
 ##### 1.《大话设计模式》
 
 ## others 其他
 ##### 1.《程序员的自我修养——链接、装载与库》
+
 
 
 
