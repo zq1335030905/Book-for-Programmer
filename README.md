@@ -4,8 +4,7 @@ This is a project of programmer basic learning book list and pdf. Because of the
 
 The list include：
 ## c++ 
-##### 1.《c++ primer forth editor》
-
+##### 1.《c++ primer forth editor中文版》
 ##### 2.《深度探索c++对象模型》
 ##### 3.《STL源码剖析》
 
@@ -27,6 +26,7 @@ The list include：
 
 ## others 其他
 ##### 1.《程序员的自我修养——链接、装载与库》
+##### 2.《程序员代码面试指南IT名企算法与数据结构最优解，左程云著》
 
 ## download link
 链接: https://pan.baidu.com/s/1-Qp5_iRPuVKX6seqo6Yo-A 提取码: 6j4v
